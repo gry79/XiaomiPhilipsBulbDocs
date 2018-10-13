@@ -1,4 +1,4 @@
-# Xiaomi Philips Smart Ball Firmware
+# Xiaomi Philips Smart Ball Documentation
 
 **NOTE: Firmware not finished yet, I will release it later.**
 
